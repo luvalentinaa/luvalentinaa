@@ -1,7 +1,16 @@
 # Olá 🧝‍♂️  Sou Luciana Valentina 
 ## Desenvolvedora Fron-End  { Junior🐱‍💻} 
-
-<div>
+###Sou profissional e talentosa com habilidades de
+###desenvolvimento de front-end. Me descobri nessa área faz uns 3 anos sou
+###apaixonada por decifrar problemas desafiadores e criar experiências
+###deliciosas e únicas através de códigos .
+###Aprimorei minhas habilidades em
+###desenvolvimento web.
+###Desenvolvo sites com HTML, CSS , JavaScript e React.
+###Sendo uma pessoa diligente, trabalhadora e
+###orientada para resultados, eu sempre trabalho para alcançar o melhor
+###resultado em cada projeto que coloco em minhas mãos
+<div>>
   <a href="https://github.com/luvalentinaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luvalentinaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvalentinaa&layout=compact&langs_count=6&theme=tokyonight"/>
