@@ -1,5 +1,5 @@
 # Olá 🧝‍♂️  Sou Luciana Valentina 
-##  Desenvolvedora Fron-End  { Junior } 
+## Desenvolvedora Fron-End  { Junior🐱‍💻} 
 
 <div>
   <a href="https://github.com/luvalentinaa">
@@ -10,11 +10,16 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
+  <img align="center" alt="CSS" height="30" width="40" src="./react.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="./logo-valentina.svg">
+  
 </div>
- 
- <br>
- 
-  ### Pra conteúdo sobre programação me segue nas redes abaixo!
+   
+  <br>
+  [
+    <img src="./Gif_front.gif">
+  ]
+   
  
 <div>
   <a href="https://www.instagram.com/lu_valentinaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
