@@ -31,7 +31,7 @@ resultado em cada projeto que coloco em minhas mãos
    
  
 <div>
-   <a href = "https://drive.google.com/file/d/1Cz8yZbleuB7C7w8Xqtsm89iIx77lf9zO/view?usp=sharing">#meucurriculo📑</a>
+   <a href = "https://drive.google.com/file/d/1llKI0WR9qScn5d1NFTZbTiBeiQY5Y5L4/view?usp=sharing"># Meu curriculo📑</a>
   <a href="https://www.instagram.com/lu_valentinaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:luvalentinaa29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
   <a href="https://www.linkedin.com/in/luciana-valentina-3158b022b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
