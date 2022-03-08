@@ -25,13 +25,13 @@ vaga de emprego na área "
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
   <img align="center" alt="CSS" height="30" width="40" src="./react.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="./logo-valentina.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="./logo.svg">
   
 </div>
    
   <br>
   [
-    <img src="./Gif_front.gif">
+    <img src="./logo_name.svg">
   ]
    
  
