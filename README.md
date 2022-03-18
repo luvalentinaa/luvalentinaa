@@ -1,6 +1,9 @@
 # Olá  🧝‍♂️  Sou Luciana Valentina 
-## Desenvolvedora Fron-End  { Junior🐱}  
+## Desenvolvedora Fron-End  { Junior🧙‍♀️}  
 " Olá sou Luciana Valentina , 33 anos
+estou atualmente cursando graduação em análise e 
+desenvolvimento de sistemas, 
+também mentoria em frontend,
 Amo a tecnologia e a proximidade
 que ela nos trouxe,
 Sou uma desenvolvedora Front-end
@@ -8,8 +11,8 @@ altamente dedicada, procurando uma
 posição na área de desenvolvimento
 front-end. Sou bem curiosa e aprendo
 muito rápido ,
-Com capacidade de trabalhar bem
-em equipe e bom relacionamento
+Com capacidade , trabalho bem
+em equipe , bom relacionamento
 interpessoal.
 Comprometida com prazos e entregas
 de qualidade.
