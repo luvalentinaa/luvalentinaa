@@ -26,9 +26,7 @@ vaga de emprego na área "
 </div>
    
   <br>
-  [
-    <img src="./logo.svg">
-  ]
+ 
    <div>
     <a href = "https://drive.google.com/file/d/1S9q9JzYYRYQaZin8DoiweprE5G43fYkA/view?usp=sharing">
       <img src="curriculo.png">
