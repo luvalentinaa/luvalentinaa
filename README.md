@@ -1,8 +1,8 @@
 # Oiee!!! 🖖Eu sou Lu Valentina 
 ## Desenvolvedora Fron-End  { Junior🧙‍♀️}  
-<p>" Olá sou Luciana Valentina desenvolvedora Frontend em ascensão
-estou atualmente cursando graduação em análise e 
-desenvolvimento de sistemas e mentoria em Frontend ,
+<p>" Olá sou Luciana Valentina ,  desenvolvedora Frontend em ascensão
+estou atualmente cursando graduação em Análise e
+desenvolvimento de sistemas e Mentoria em Frontend ,
 Amo a tecnologia e a proximidade que ela nos trouxe,
 Sou altamente dedicada, procurando uma
 posição na área de desenvolvimento
