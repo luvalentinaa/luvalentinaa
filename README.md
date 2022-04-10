@@ -26,7 +26,7 @@ vaga de emprego na área "
 
   
 </div>
-  [<img src="meu-gif.gif">]
+  [<img src="meu_gif.gif">]
  ##
   
    <div>
