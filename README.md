@@ -1,4 +1,4 @@
-#Oiee!!! 🖖Eu sou Lu Valentina 
+# Oiee!!! 🖖Eu sou Lu Valentina 
 ## Desenvolvedora Fron-End  { Junior🧙‍♀️}  
 <p>" Olá sou Luciana Valentina desenvolvedora Frontend em ascensão
 estou atualmente cursando graduação em análise e 
