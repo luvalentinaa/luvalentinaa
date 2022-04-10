@@ -42,6 +42,6 @@ vaga de emprego na área "
   <a href = "mailto:luvalentinaa29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red" destino ="_blank"></a>
   <a href="https://www.linkedin.com/in/luciana-valentina-3158b022b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-  ![Animação de cobra](https://github.com/luvalentinaa/luvalentinaa/blob/main/.github/fluxos%20de%20trabalho/cobrinha.yml)
+  ![Animação de cobra](https://github.com/luvalentinaa/luvalentinaa/blob/output/github-contribution-grid-snake.svg)
 
 </div>
