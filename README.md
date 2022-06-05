@@ -32,8 +32,7 @@ vaga de emprego na área "
   ]
   
   <br>
- ##
-  
+
    <div>
     <a href = "https://drive.google.com/file/d/1S9q9JzYYRYQaZin8DoiweprE5G43fYkA/view?usp=sharing"  target="_blank">
       <img src="https://img.shields.io/badge/-Curriculum-orange"  target="_blank">
