@@ -1,5 +1,5 @@
 # 🖖Eu sou Lu Valentina 
-## Desenvolvedora Fron-End  { Junior🧙‍♀️}  
+## Desenvolvedora Fron-End em ascensão🚀
 <p>" Olá sou Luciana Valentina ,  desenvolvedora Frontend em ascensão
 estou atualmente cursando graduação em Análise e
 desenvolvimento de sistemas e Mentoria em Frontend ,
@@ -31,9 +31,6 @@ vaga de emprego na área "
   <br>
 
    <div>
-    <a href = "https://drive.google.com/file/d/1S9q9JzYYRYQaZin8DoiweprE5G43fYkA/view?usp=sharing"  target="_blank">
-      <img src="https://img.shields.io/badge/-Curriculum-orange"  target="_blank">
-     </a>
   <a href="https://www.instagram.com/lu_valentinaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:luvalentinaa29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red" destino ="_blank"></a>
   <a href="https://www.linkedin.com/in/luciana-valentina-3158b022b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
